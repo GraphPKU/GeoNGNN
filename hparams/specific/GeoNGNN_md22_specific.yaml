@@ -1,0 +1,7 @@
+ATCG:
+  optimizer_config:
+    force_ratio: 0.99
+
+AT:
+  optimizer_config:
+    force_ratio: 0.99
